@@ -1,0 +1,57 @@
+.name{
+  margin-left: 20%;
+}
+.col-1{
+  padding-top: 1%;
+  text-align: center;
+  justify-content: center;
+}
+.col-1:hover{
+  text-decoration: overline solid ;
+}
+.header1{
+  -webkit-text-fill-color: orange;
+
+  /* text-shadow: 0px 0px 20px rgba(0, 0, 0, 0.351); */
+}
+/* .photo{
+  margin-top: 10%;
+  margin-left: 20%;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  width: 50%;
+}
+body {
+  background: navajowhite;
+  background-size: cover;
+  font-family: 'Trebuchet MS', sans-serif;
+}
+.container {
+  display: inline-block;
+}
+.typed-out {
+  overflow: hidden;
+  border-right: 0.15em solid orange;
+  white-space: nowrap;
+  font-size: 1.6rem;
+  width: 0;
+  animation: typing 3s steps(20, end) forwards infinite;
+}
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
+@keyframes blink {
+  from {
+    border-color: transparent;
+  }
+  to {
+    border-color: orange;
+  }
+} */
+
